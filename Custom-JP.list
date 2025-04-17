@@ -41,5 +41,8 @@ DOMAIN-SUFFIX,okamotoshoten.jp
 # game
 DOMAIN-SUFFIX,game.granbluefantasy.jp
 DOMAIN-SUFFIX,millenium-war.net
-DOMAIN-SUFFIX,gigant-game.net
-DOMAIN-SUFFIX,focas.jp
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,gigant-game
+DOMAIN-KEYWORD,focas
+DOMAIN-KEYWORD,googletagmanager
+DOMAIN-KEYWORD,spsync.i-mobile
